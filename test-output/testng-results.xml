@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54546" started-at="2020-05-27T22:21:39Z" finished-at="2020-05-27T22:22:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54546" started-at="2020-05-27T22:21:39Z" finished-at="2020-05-27T22:22:34Z">
+      <class name="com.scripts.MavenActiTIME.TestActitime">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.scripts.MavenActiTIME.TestActitime@782663d3]" name="openBrowser" is-config="true" duration-ms="14997" started-at="2020-05-27T22:21:40Z" finished-at="2020-05-27T22:21:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.scripts.MavenActiTIME.TestActitime@782663d3]" name="login" duration-ms="1522" started-at="2020-05-27T22:21:55Z" finished-at="2020-05-27T22:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="createCustomer()[pri:2, instance:com.scripts.MavenActiTIME.TestActitime@782663d3]" name="createCustomer" duration-ms="11267" started-at="2020-05-27T22:21:56Z" finished-at="2020-05-27T22:22:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCustomer -->
+        <test-method status="PASS" signature="createWork()[pri:3, instance:com.scripts.MavenActiTIME.TestActitime@782663d3]" name="createWork" duration-ms="14176" started-at="2020-05-27T22:22:07Z" finished-at="2020-05-27T22:22:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createWork -->
+        <test-method status="PASS" signature="createLeave()[pri:4, instance:com.scripts.MavenActiTIME.TestActitime@782663d3]" name="createLeave" duration-ms="12538" started-at="2020-05-27T22:22:21Z" finished-at="2020-05-27T22:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createLeave -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.scripts.MavenActiTIME.TestActitime@782663d3]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2020-05-27T22:22:34Z" finished-at="2020-05-27T22:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.scripts.MavenActiTIME.TestActitime -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
